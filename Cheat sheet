@@ -1,2 +1,57 @@
-waaaaa
-sdsddd
+To know your shell type
+#echo $SHELL
+*****************
+Print screen
+# echo Alaison
+**********************
+To list all files and folders
+#ls -a
+***********************
+To make a directory
+#mkdir alu
+***********************
+To change directiory
+#cd alu
+********************
+To delete file or folder
+#rm -r alu
+***********
+Create a new file (no contents)
+#touch new_file.txt
+**************************
+Add contents to the new file.txt
+#cat > new_file.txt
+#Controll+D -> Save
+******************************
+Copy new_file.txt contents to als.txt file(new created file)
+#cp new_file.txt als.txt
+To rename als.txt to ra.txt
+#mv als.txt ra.txt
+*****************************
+Remove a file 
+#rm new_file.txt
+******************
+To know user details
+#whoami
+****************
+To know account user id 
+#id
+*********************
+To check o=s version
+#ls /etc/*release*
+*****************************************
+To show your IP adress
+#ip addr show
+**************************************
+
+
+
+
+
+
+
+
+
+
+
+
